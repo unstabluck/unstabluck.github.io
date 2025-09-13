@@ -3,5 +3,18 @@
 }
 
 body{
-    background-color: forestgreen
+    background-color: forestgreen;
+    
+}
+
+
+.main{
+    background-color: orange;
+    
+}
+
+.wrapper{
+    vertical-align:middle;
+    background-color: lightgoldenrodyellow;
+    
 }
