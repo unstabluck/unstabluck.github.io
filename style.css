@@ -10,9 +10,9 @@ body{
 
 .main{
     background-color: palegoldenrod;
-    margin: auto;
+    margin: 20px;
     padding: 10px;
-    
+    color: floralwhite;
 }
 
 .wrapper{
