@@ -3,13 +3,13 @@
 }
 
 body{
-    background-color: forestgreen;
+    background-color: orange;
     
 }
 
 
 .main{
-    background-color: orange;
+    background-color: forestgreen;
     margin: auto;
     padding: 10px;
     
@@ -18,5 +18,5 @@ body{
 .wrapper{
     vertical-align:middle;
     background-color: lightgoldenrodyellow;
-    
+    position: relative;
 }
