@@ -17,6 +17,7 @@ body{
 
 .wrapper{
     vertical-align:middle;
-    background-color: lightgoldenrodyellow;
+    background-color: forestgreen;
     position: relative;
+    margin: 10%
 }
