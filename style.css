@@ -3,15 +3,16 @@
 }
 
 body{
-    background-color: forestgreen;
+    background-color: lightgoldenrodyellow;
     
 }
 
 
 .main{
-    background-color: lightgoldenrodyellow;
+    background-color: forestgreen;
     margin: 20px;
     padding: 10px;
+    color: floralwhite;
 
 }
 
